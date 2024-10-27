@@ -1,5 +1,5 @@
 ## PotSG
-Fork of [FrozedSG](https://github.com/FrozedClubDevelopment/FrozedPotSG) with new features and customizability while being more optimized.
+Fork of [FrozedSG](https://github.com/FrozedClubDevelopment/FrozedPotSG) planned with new features and customizability while being more optimized
 
 ## Requirements
 - Java 8
