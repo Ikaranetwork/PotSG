@@ -1,6 +1,6 @@
 tablist:
-  header: "&6&lPotSG"
-  footer: "&7&oYou're playing &6&oPotSG &7&oon Ikara.gg!"
+  header: "&6&l%frames_title%"
+  footer: "&7&o%frames_dots%"
   bottom_left: "&bstore.Ikara.gg"
   bottom_center: "&bIkara.gg/Content"
   bottom_right: "&bIkara.gg/Discord"
