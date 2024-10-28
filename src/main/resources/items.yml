@@ -1,53 +1,53 @@
 player-tracker:
-  name: "&bPlayer Tracker"
+  name: "&6Player Tracker"
 spectator-inventory:
   alive-players:
-    name: "&bPlayers Alive"
+    name: "&6Players Alive"
     lore:
-    - "&7Click to see"
-    - "&7player who are still playing."
+    - "&7Click to see player's"
+    - "&7who are still alive."
   quit-sg:
     #
     # If LOBBY-ENABLED in config.yml is true, it will get lobby-enabled data, else will get lobby-disabled data
     #
     lobby-enabled:
-      name: "&bConnect to lobby"
+      name: "&6Connect to lobby"
       lore:
       - "&7Click to connect"
-      - "&7to lobby server."
+      - "&7to our lobby."
     lobby-disabled:
       name: "&cQuit"
       lore:
       - "&7Click to quit"
-      - "&7this sg server."
+      - "&7this game."
   inspect-inventory:
-    name: "&bInspect Inventory"
+    name: "&6Inspect Inventory"
     lore:
-    - "&7Click player to"
-    - "&7inspect inventory."
+    - "&7Click to inspect"
+    - "&7a player's inventory."
   random-teleport:
-    name: "&bRandom Teleport"
+    name: "&6Random Teleport"
     lore:
-    - "&7Click to teleport"
-    - "&7to a random player in game."
+    - "&7Click to randomly teleport"
+    - "&7to a player who is still alive."
 join-inventory:
   leaderboard:
-    name: "&bLeaderboards"
+    name: "&6Leaderboards"
     lore:
-    - "&7Right click me to"
-    - "&7see leaderboards."
+    - "&7Right click to see"
+    - "&7the leaderboards."
   player-stats:
-    name: "&bPlayers Statistics"
+    name: "&6Player Stats"
     lore:
-    - "&7Right click me to"
-    - "&7see players statistics"
+    - "&7Right click to see"
+    - "&7players statistics."
   settings:
-    name: "&bSettings"
+    name: "&6Settings"
     lore:
     - "&7Right click me to"
-    - "&7toggle your settings"
+    - "&7toggle your settings."
   your-stats:
-    name: "&bYour Statistics"
+    name: "&6Statistics"
     lore:
-    - "&7Right click me to"
-    - "&7see your statistics"
+    - "&7Right click to see"
+    - "&7your statistics."
